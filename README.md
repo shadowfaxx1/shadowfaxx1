@@ -1,8 +1,5 @@
-- Hi, I’m @shadowfax
-- interested in data science and cyber security 
-- learning c/c++ 
-- collaborate on whatever worth my time   
-- ping me mail2kaifkhan
+for fun ping me 
+death awaits.
 
 <!---
 shadowfaxx1/shadowfaxx1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
