@@ -1,6 +1,6 @@
-Languages i know C and python 
-Learing cyber security and artifical intelligence 
-languages currently learing python advance and java  
+Languages i know C and python\n 
+Learing cyber security and artifical intelligence\n 
+languages currently learing python advance and java\n  
 
 
 death awaits\n.
