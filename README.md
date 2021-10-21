@@ -4,7 +4,7 @@ Languages i know C and python\n
 Learing cyber security and artifical intelligence\n
 
 
-languages currently learing python advance and java\n  
+languages currently learing advanced python with data structures and java\n  
 
 
 death awaits\n.
