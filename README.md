@@ -1,5 +1,9 @@
-Languages i know C and python\n 
-Learing cyber security and artifical intelligence\n 
+Languages i know C and python\n
+
+
+Learing cyber security and artifical intelligence\n
+
+
 languages currently learing python advance and java\n  
 
 
