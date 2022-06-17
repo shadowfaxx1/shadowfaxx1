@@ -1,4 +1,5 @@
-Languages i know C , C++ , Python , HTML and CSS. 
+Languages i know C , C++ , Python , HTML and CSS.
+
 Learing cyber security and artifical intelligence.
 
 death awaits\n.
