@@ -1,11 +1,5 @@
-Languages i know C and python\n
-
-
-Learing cyber security and artifical intelligence\n
-
-
-languages currently learing advanced python with data structures and java\n  
-
+Languages i know C , C++ , Python , HTML and CSS. 
+Learing cyber security and artifical intelligence.
 
 death awaits\n.
 
