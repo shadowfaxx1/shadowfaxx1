@@ -21,7 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=shadowfaxx1&theme=algolia&show_icons=true)](https://github.com/shadowfaxx1)	 
 
 
 > <p align="left">
