@@ -7,7 +7,7 @@
 ### Connect with me:
 > <a href="https://www.linkedin.com/in/kaif-khan-b89149212/?originalSubdomain=in"> Linkedin </a> <br>
 > <a href="https://auth.geeksforgeeks.org/user/shadowfax">GeekForGeeks </a><br>
-> <a href="https://leetcode.com/CUM_HERE_D/">LeetCode </a>
+> <a href="https://leetcode.com/shadowfaxx/">LeetCode </a>
 
 ### Languages and Tools :
 
