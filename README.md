@@ -7,7 +7,8 @@
 ### Connect with me:
 > <a href="https://www.linkedin.com/in/kaifx/?originalSubdomain=in"> Linkedin </a> <br>
 > <a href="https://auth.geeksforgeeks.org/user/shadowfax">GeekForGeeks </a><br>
-> <a href="https://leetcode.com/shadowfaxx/">LeetCode </a>
+> <a href="https://leetcode.com/shadowfaxx/">LeetCode </a><br>
+> <a href="https://public.tableau.com/app/profile/kaif.khan2817/vizzes">My Tableau Public Library </a>
 
 ### Languages and Tools :
 
