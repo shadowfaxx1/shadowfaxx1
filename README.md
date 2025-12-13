@@ -2,8 +2,8 @@
 <hr>
 <br>
 
-###🌍
 ![Visitor Map](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+<hr>
 
 ### Connect with me:
 > <a href="https://www.linkedin.com/in/kaifx/?originalSubdomain=in">LinkedIn</a> <br>
