@@ -1,6 +1,6 @@
 # <p align="center">Hi there, I'm Kaif :/ </p>
 <hr>
-<br>
+
 
 ![Visitor Map](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 <hr>
