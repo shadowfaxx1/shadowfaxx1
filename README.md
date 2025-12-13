@@ -2,7 +2,7 @@
 <hr>
 <br>
 
-### Visitor Map 🌍
+###🌍
 ![Visitor Map](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
 ### Connect with me:
