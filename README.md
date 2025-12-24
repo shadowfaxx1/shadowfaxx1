@@ -1,6 +1,5 @@
 # <p align="center">Hi there, I'm Kaif :/ </p>
-> *Dockerfile = recipe*  
-> *Docker Compose = full meal plan*
+
 
 <hr>
 
