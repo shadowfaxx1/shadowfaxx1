@@ -66,7 +66,8 @@
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadowfaxx1&theme=radical)
 
-> ![Profile Views](https://komarev.com/ghpvc/?username=shadowfaxx1&label=Profile%20views&color=0e75b6&style=flat)
+> > > >  ![Profile Views](https://komarev.com/ghpvc/?username=shadowfaxx1&label=Profile%20views&color=0e75b6&style=flat)
+<hr>
 
 > <p align="left">
  >  <sub>🔭 Currently exploring: LLMs × Multimodal AI × XR systems
