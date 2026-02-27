@@ -7,12 +7,6 @@
 <!-- ![Visitor Map](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
  <hr> -->
 
-### Connect with me:
-> <a href="https://www.linkedin.com/in/kaifx/?originalSubdomain=in">LinkedIn</a> <br>
-> <a href="https://auth.geeksforgeeks.org/user/shadowfax">GeeksforGeeks</a> <br>
-> <a href="https://leetcode.com/shadowfaxx/">LeetCode</a> <br>
-> <a href="https://public.tableau.com/app/profile/kaif.khan2817/vizzes">My Tableau Public Library</a>
-
 ## 💻 Tech Stack
 
 <p align="left">
