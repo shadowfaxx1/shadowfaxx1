@@ -58,7 +58,7 @@
 
 <hr>
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadowfaxx1&theme=radical)
+
 
 > <p align="left">
  >  <sub>🔭 Currently exploring: LLMs × Multimodal AI × XR systems
